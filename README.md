@@ -7,3 +7,4 @@ The game was created and is still being developed, by two programmers, in order 
 ```
 IN PROGRESS
 ```
+#Radek's ideas
