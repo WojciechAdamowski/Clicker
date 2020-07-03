@@ -23,7 +23,9 @@ The game was created and is still being developed, by two programmers, in order 
 
 ## Screenshots
 
+```
 IN PROGRESS
+```
 
 ## Tools
 
@@ -35,15 +37,15 @@ IN PROGRESS
 
 ## Plan
 
-#### We plan our project using the Trello website. Here is how our planning looks like
+#### We plan our project using the Trello website. Here is how our planning looks like and [here](https://trello.com/b/guU4PRcP/clicker) is our table on Trello
 
 ![Example_screenshot](./imagesForReadme/TrelloPlans.png)
 
-#### And [here](https://trello.com/b/guU4PRcP/clicker) is our table on Trello
-
 #### Short TODO: 
 
+```
 IN PROGRESS
+```
 
 ## Setup
 
