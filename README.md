@@ -9,7 +9,8 @@ The game was created and is still being developed, by two programmers, in order 
 * [Tools](#tools)
 * [Plans](#plan)
 * [Setup](#setup)
-* [Contact](#contact)
+* [Architecture](#architecture)
+* [Authors](#authors)
 
 ## Goals
 
@@ -62,7 +63,13 @@ IN PROGRESS
 5. Chose how you want to test app 
 6. Run application in emulator or your mobile phone
 
-## Contact/Authors
+## Architecture
+
+```
+IN PROGRESS
+```
+
+## Authors
 Feel free to contact us!
 * [Wojciech Adamowski](mailto:wojtekadam1@gmail.com)
 * [Radosław Żubrowski](mailto:radoslaw.zubrowski@gmail.com)
