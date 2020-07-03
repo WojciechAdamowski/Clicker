@@ -8,7 +8,7 @@ The game was created and is still being developed, by two programmers, in order 
 * [Screenshots](#screenshots)
 * [Tools](#tools)
 * [Plans](#plan)
-* [Set Environment For Developers](#set environment)
+* [Setup](#setup)
 * [Contact](#contact)
 
 ## Goals
@@ -47,7 +47,7 @@ IN PROGRESS
 
 IN PROGRESS
 
-## Set environment
+## Setup
 
 ```
 1. Download: 
@@ -63,7 +63,10 @@ IN PROGRESS
 ```
 
 ## Contact
-####Created by: 
+#### Created by: 
+
+Feel free to contact us!
+
 * [Wojciech Adamowski](mailto:wojtekadam1@gmail.com)
 * [Radosław Żubrowski](mailto:radoslaw.zubrowski@gmail.com)
 
