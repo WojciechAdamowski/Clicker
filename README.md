@@ -47,7 +47,6 @@ IN PROGRESS
 
 ## Setup
 
-```
 1. Download: 
     - Android Studio or chosen text editor
     - Java Vritual Machine, you can also do it by your text editor (JDK)
@@ -58,12 +57,9 @@ IN PROGRESS
 4. Build project 
 5. Chose how you want to test app 
 6. Run application in emulator or your mobile phone
-```
 
-## Contact
-Feel free to contact us!
-#### Created by: 
-
-* [Wojciech Adamowski](mailto:wojtekadam1@gmail.com)
-* [Radosław Żubrowski](mailto:radoslaw.zubrowski@gmail.com)
+## Contact/Authors
+  Feel free to contact us!
+    * [Wojciech Adamowski](mailto:wojtekadam1@gmail.com)
+    * [Radosław Żubrowski](mailto:radoslaw.zubrowski@gmail.com)
 
