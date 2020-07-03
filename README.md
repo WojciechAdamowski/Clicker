@@ -27,13 +27,11 @@ IN PROGRESS
 
 ## Tools
 
-```
 * Java 14
 * Android Studio
 * Trello
 * Gradle
 * Git
-```
 
 ## Plan
 
