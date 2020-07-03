@@ -37,15 +37,17 @@ IN PROGRESS
 
 ## Plan
 
-#### We plan our project using the Trello website. Here is how our planning looks like and [here](https://trello.com/b/guU4PRcP/clicker) is our table on Trello
-
-![Example_screenshot](./imagesForReadme/TrelloPlans.png)
-
-#### Short TODO: 
+#### Short Todo: 
 
 ```
 IN PROGRESS
 ```
+
+#### We plan our project using the Trello website. Here is how our planning looks like:  
+
+![Example_screenshot](./imagesForReadme/TrelloPlans.png)
+
+#### Also [here](https://trello.com/b/guU4PRcP/clicker) is our table on Trello
 
 ## Setup
 
