@@ -61,9 +61,8 @@ IN PROGRESS
 ```
 
 ## Contact
-#### Created by: 
-
 Feel free to contact us!
+#### Created by: 
 
 * [Wojciech Adamowski](mailto:wojtekadam1@gmail.com)
 * [Radosław Żubrowski](mailto:radoslaw.zubrowski@gmail.com)
