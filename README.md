@@ -63,7 +63,7 @@ IN PROGRESS
 6. Run application in emulator or your mobile phone
 
 ## Contact/Authors
-  Feel free to contact us!
-    * [Wojciech Adamowski](mailto:wojtekadam1@gmail.com)
-    * [Radosław Żubrowski](mailto:radoslaw.zubrowski@gmail.com)
+Feel free to contact us!
+* [Wojciech Adamowski](mailto:wojtekadam1@gmail.com)
+* [Radosław Żubrowski](mailto:radoslaw.zubrowski@gmail.com)
 
