@@ -53,7 +53,7 @@ IN PROGRESS
 
 1. Download: 
     - Android Studio or chosen text editor
-    - Java Vritual Machine, you can also do it by your text editor (JDK)
+    - Java Virtual Machine, you can also do it by your text editor (JDK)
     - App which allow you to connect computer with your phone by ADB
     - Git
 2. Clone github repository
