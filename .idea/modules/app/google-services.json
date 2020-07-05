@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "72889837541",
+    "firebase_url": "https://clickers-e56f5.firebaseio.com",
+    "project_id": "clickers-e56f5",
+    "storage_bucket": "clickers-e56f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72889837541:android:1879e77df77e51ea6d710c",
+        "android_client_info": {
+          "package_name": "WR.main.clickers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72889837541-ghi5i53mbgp2v8i43hvf128d2toca7pp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "WR.main.clickers",
+            "certificate_hash": "6b2daa2fe443d7571d55df60378cc76eaf2c742c"
+          }
+        },
+        {
+          "client_id": "72889837541-nhg7pbmn0jdv95b4dnpbsmg92j8ftvdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmCWEZxLCmz66Fea38l_G4oSMV8lg5ODU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72889837541-nhg7pbmn0jdv95b4dnpbsmg92j8ftvdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
