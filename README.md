@@ -44,7 +44,7 @@ IN PROGRESS
 IN PROGRESS
 ```
 
-#### We plan our project using the Trello website. Here is how our planning looks like:  
+#### We plan our project in Waterfall methodolody using the Trello website. Here is how our planning looks like:  
 
 ![Example_screenshot](./imagesForReadme/TrelloPlans.png)
 
